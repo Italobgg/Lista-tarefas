@@ -28,7 +28,7 @@
           <C.Header>
             Lista de Tarefas
           </C.Header>
-
+          <h3>Escreva sua tarefa e aperta o ➕ ou pressione enter</h3>
           <AddArea onEnter={handleAddTask} />
 
 
